@@ -1,0 +1,10 @@
+assemblyai
+numpy
+torch
+torchaudio
+scikit-learn
+scipy
+pyannote.audio
+pyaudio
+pydub
+langdetect
